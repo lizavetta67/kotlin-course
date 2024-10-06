@@ -1,7 +1,6 @@
 package org.matveeva.kotlincourse.lesson9
 
 import java.time.LocalDate
-import java.time.format.DateTimeFormatter
 
 
 fun main(){
